@@ -41,7 +41,7 @@ function init() {
         zoom: 15,
 
         // The latitude and longitude to center the map (always required)
-        center: new google.maps.LatLng(40.6700, -73.9400), // New York
+        center: new google.maps.LatLng(31.1908886,121.5975977), // Fudan University Zhangjiang Campus
 
         // Disables the default Google Maps UI components
         disableDefaultUI: true,
