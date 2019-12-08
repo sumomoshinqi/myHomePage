@@ -1,8 +1,0 @@
-{
-  "short_name": "照片相册",
-  "name": "照片相册",
-  "start_url": ".",
-  "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
-}
