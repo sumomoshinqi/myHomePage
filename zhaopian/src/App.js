@@ -22,7 +22,7 @@ class App extends Component {
                     <a target="_blank" href="https://www.icloud.com/sharedalbum/#B0wG6XBubGdvsij">
                       <Card
                         hoverable
-                        style={{width: 500}}
+                        style={{width: 300}}
                         cover={<img src="coverImg/USdaily.jpeg"/>}
                       >
                         <Meta title="美国日常" description="持续更新"/>
@@ -42,7 +42,7 @@ class App extends Component {
                   <a target="_blank" href="https://www.icloud.com/sharedalbum/#B0w5nhQSTGQAqpV">
                     <Card
                       hoverable
-                      style={{width: 500}}
+                      style={{width: 300}}
                       cover={<img src="coverImg/Fr2018.jpeg"/>}
                     >
                       <Meta title="2019年8月 法国" description="🇫🇷 🏖️ 巴黎 尼斯 摩纳哥"/>
@@ -61,7 +61,7 @@ class App extends Component {
                   <a target="_blank" href="https://www.icloud.com/sharedalbum/#B0wGY8gBYjQjGq">
                     <Card
                       hoverable
-                      style={{width: 500}}
+                      style={{width: 300}}
                       cover={<img src="coverImg/Wed.jpeg"/>}
                     >
                       <Meta title="婚纱照" description="2018.02.15(农历新年) 领证"/>
@@ -80,7 +80,7 @@ class App extends Component {
                   <a target="_blank" href="https://www.icloud.com/sharedalbum/#B0w5n8hH4GQjS0J">
                     <Card
                       hoverable
-                      style={{width: 500}}
+                      style={{width: 300}}
                       cover={<img src="coverImg/us18.jpeg"/>}
                     >
                       <Meta title="2018年1月 美国" description="旧金山 洛杉矶 拉斯维加斯"/>
